@@ -29,6 +29,3 @@ def swapper(t):
 
 def run_swapper(list_of_tuples):
   return list(map(swapper, list_of_tuples))
-
-
-run_swapper()
